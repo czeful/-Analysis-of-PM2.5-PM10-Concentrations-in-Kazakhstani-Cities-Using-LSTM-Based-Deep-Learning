@@ -1,0 +1,19 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Данные и тяжелые массивы
+raw/air_data/
+processed/
+*.npy
+*.csv
+*.h5
+
+# Настройки IDE (PyCharm/VS Code)
+.idea/
+.vscode/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
